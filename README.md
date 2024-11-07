@@ -1,7 +1,7 @@
-#Play Rock Paper Scissors in the browser console
-- This is an exercise utilizing javascript on an html file to run a rock paper scissors game in the browser console
+Play Rock Paper Scissors
+- This is an exercise utilizing javascript to manipulate dom elements through a rock paper scissors game
 
-###To play:
-- Open webpage, then open the browser console
-- Type in 'Rock' 'Paper', Or 'Scissor' (case insensitive)
-- Play Up to 5 rounds against the computer
+To play:
+- Click the buttons to make your selection
+- Each game consists of 5 rounds against a computer
+- Good Luck!
